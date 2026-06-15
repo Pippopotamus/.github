@@ -1,1 +1,1 @@
-![Pippopotamus](profile/pippo banner.png)
+![Pippopotamus](profile/pippo_banner.png)
